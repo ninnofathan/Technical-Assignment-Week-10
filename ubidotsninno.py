@@ -44,7 +44,7 @@ def distance():
 
 TOKEN = "BBFF-zFchuBK9Kxm8dRbKdmI7cppYClrLAY"  # Put your TOKEN here
 DEVICE_LABEL = "Technical Assignment Week 10 Ninno"  # Put your device label here 
-VARIABLE_LABEL_1 = "sensor-ultrasosic"  # Put your first variable label here
+VARIABLE_LABEL_1 = "sensor-ultrasonic"  # Put your first variable label here
 
 
 def build_payload(variable_1):
